@@ -1,6 +1,10 @@
 {
   "name": "@partiellkorrekt/baseproject",
   "version": "1.0.0",
+  "description": "Config-files for my base-project",
+  "author": "Abraham Przewodnik",
+  "homepage": "https://github.com/partiellkorrekt/baseproject",
+  "git": "https://github.com/partiellkorrekt/baseproject.git",
   "main": "index.js",
   "license": "MIT",
   "eslintConfig": {
